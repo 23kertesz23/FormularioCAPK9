@@ -8,7 +8,7 @@
 	<ul>
 		<li><a href="formulario.html">Formulario</a></li>
 		<li><a href="./personas/PersonasControlador.php?operacion=index">Formulario</a></li>
-		<li><a href="#"></a>Modulo 2</li>
+		<li><a href="./plantas/index.php">Plantas</a></li>
 	</ul>
 </body>
 </html>
